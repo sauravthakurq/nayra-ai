@@ -123,12 +123,11 @@ LinkedIn: https://linkedin.com/in/sauravthakurq
 
 Email: sauravthakur6310@gmail.com
 
+Portfolio: https://sauravthakurx.vercel.app
+
 ---
 
-## Live Project
-
-https://sauravthakurq.github.io/nayra-ai/
-
+ 
 ---
 
 Built with Sarvam AI and a strong belief that India needs world-class sovereign AI infrastructure.
